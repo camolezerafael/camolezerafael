@@ -15,7 +15,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a Full Stack Developer with 15 years of experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, living in Brazil.
 
 - :telescope: I’m working as a Senior Software Engineer and contributing to front end and back end for building web applications.
 
